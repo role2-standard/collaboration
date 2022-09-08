@@ -1,0 +1,25 @@
+{
+  "name": "collaboration",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://github.com/role2-standard/communication#readme",
+  "bugs": {
+    "url": "https://github.com/role2-standard/communication/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/role2-standard/communication.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "npx sort-package-json && npx prettier --write ."
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.184",
+    "libphonenumber-js": "^1.10.13",
+    "utility-types": "^3.10.0"
+  }
+}
