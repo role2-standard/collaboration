@@ -2,11 +2,17 @@
 
 ## 命名
 
-**在任何情况下**，能使用 `snake_case` 就使用 `snake_case`，**拒绝 `camalCase`**，这些情况包括但不限于：目录名，文件名，变量名，函数名，键名，仓库名，分支名，URL路径及参数...
+### 原则
+
+**精准压倒一切。**
+
+### 格式
+
+**在任何情况下**，能使用 `snake_case` 就使用 `snake_case`，**拒绝 `camalCase`**，这些情况包括但不限于：目录名，文件名，变量名，函数名，键名，仓库名，分支名，URL 路径及参数...
 
 **特殊情况**
 
-- 类名：正常使用 `Snake_case` 只不过第一个字母大写，举例：`Apple`, `This_is_a_class`
+- 类名：正常使用 `Snake_case`，只不过第一个字母大写，举例：`Apple`, `This_is_a_class`
 
 ## 协作
 
@@ -22,3 +28,8 @@
 - `dev`: 最新的开发版
 - `dev.xxx`: 最新的开发版（子模块：`xxx`）
 - `feature.xxx`: 某个需要独立存在的功能或特性，如：节日专题 `feature.new_year`，教育版等等，通常会和 `master` 合并使用
+
+## 格式
+
+整个团队要使用同一种代码格式，什么叫同一种格式？字符比对完全一致。人力维护不现实，可以借助格式工具，类似于 [prettier](https://github.com/prettier/prettier)
+，参考：[awesome-code-formatters](https://github.com/rishirdua/awesome-code-formatters)
