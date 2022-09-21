@@ -24,9 +24,9 @@
 
 #### 分支
 
-- `master`: 最新的产线版
-- `dev`: 最新的开发版
-- `dev.xxx`: 最新的开发版（子模块：`xxx`）
+- `master`: 产线版
+- `dev`: 开发版
+- `dev.xxx`: 开发版（子模块：`xxx`）
 - `feature.xxx`: 某个需要独立存在的功能或特性，如：节日专题 `feature.new_year`，教育版等等，通常会和 `master` 合并使用
 
 ## 格式
