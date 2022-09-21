@@ -2,6 +2,8 @@
 
 # Role2 协作标准
 
+[开发者协作标准](./developer/index.zh.md)
+
 ```text
 scope: 所有协作场景
 ```
