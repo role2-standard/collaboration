@@ -12,7 +12,7 @@
 
 #### 分支
 
-格式：`{master|[feature.FEATURE]dev[.MODULE]}`
+格式：`{master|[feature.FEATURE.]dev[.MODULE]}`
 
 ##### 功能分支
 
