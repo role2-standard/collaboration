@@ -31,5 +31,5 @@
 
 ## 格式
 
-整个团队要使用同一种代码格式，什么叫同一种格式？字符比对完全一致。人力维护不现实，可以借助格式工具，类似于 [prettier](https://github.com/prettier/prettier)
+整个团队要使用同一种代码格式，同一种格式意味着字符比对完全一致。人力维护不现实，可以借助格式工具，类似于 [prettier](https://github.com/prettier/prettier)
 ，参考：[awesome-code-formatters](https://github.com/rishirdua/awesome-code-formatters)
