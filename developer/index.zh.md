@@ -12,17 +12,17 @@
 
 #### 分支
 
-格式：`{master|[feature.]dev[.module]}`
+格式：`{master|[feature.FEATURE]dev[.MODULE]}`
 
 ##### 功能分支
 
 - **`master`** - **产线版**，充分测试，风险最小，可以直接在产线运行的版本（不可删除）
-- **`feature.<name>`** - **特性版**，需要独立存在的功能或特性，如：节日专题 `feature.new_year`，教育版 `feature.edu` 等等，通常以 `master` 为基础，合并使用（不可删除）
+- **`feature.<NAME>`** - **特性版**，需要独立存在的功能或特性，如：节日专题 `feature.new_year`，教育版 `feature.edu` 等等，通常以 `master` 为基础，合并使用（不可删除）
 
 ##### 阶段分支
 
 - **`dev`** - **开发版**，正在开发的总版本，其他子模块最终会合并到此分支（可删除）
-- **`dev.<name>`** - **子模块开发版**，正在开发的某个子模块，如：`dev.payment`（可删除）
+- **`dev.<NAME>`** - **子模块开发版**，正在开发的某个子模块，如：`dev.payment`（可删除）
 
 基于 `master` 的开发前缀省略（直接 `dev` 就好，无需 `master.dev`），如果是特性版，只需前缀特性名称即可
 
