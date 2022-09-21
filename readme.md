@@ -58,10 +58,36 @@ A task being feasable for a single person means the individual who was assigned 
 
 Broadcasting your progress is very important. Everyone sticking to their own tasks seems to be fine, but that could also make everyone become a blackbox. Broadcast incorrectly or no broadcasting at all could significantly increase the effort required for collaboration as well as the uncertainty of the project. On the other hand, accurate and timely broadcast enables everyone to take actions in the same context, which contributes to the overall efficiency.
 
-让队友知道自己的状态。例如：
+Let your teammates be aware of your status. For example:
 
-- 我在干什么（"已经到客户公司了，正在等客户开完会"）
-- 顺不顺利（"客户觉得价格有点高"）
-- 需不需要帮助？什么帮助？（"@whh，我们有没有开发数据分析的模块？"）
-- 我的预期（"感觉客户有兴趣，明天我在问问"）
-- 我在等哪个条件的满足（"让客户考虑两天"）
+- What I'm doing (I've arrived at the clients' place and am waiting for the them to finish the previous meeting.)
+- How is everything going (Clients feel the price is a bit too high)
+- Whether assistance is required. If so, what's the exact content ("@whh, have we developed the module for data analysis?")
+- Your expectations (The client seems to be interested, I'll ask him again tomorrow.)
+- Which condition you are waiting for it to be fulfilled ("Give them a couple of days to consider.")
+
+#### Who to broadcast
+
+Superior leaders as well as other peers of the same level.
+
+#### What to broadcast
+
+Everything that could potentially affect other team members should be broadcasted, during which no question is necessary. If someone asks a question regarding it, then your broadcast were not done correctly.一切对其他成员有潜在影响的都应该广播，无需队友问，人家开始问就说明广播工作已经有失误了。
+
+Typical broadcast examples:
+
+- Is everything going well?
+  - Yes, everything is proceeding as planned.
+  - No, then what problems did you encounter? What type of assistance is needed? Which conditions are you waiting for it to be fulfilled?
+
+Examples:
+
+- (A follow-up task) Just discussed with clients and they have some concerns related to data security.
+- (An implementation task) A 3rd party library is needed, which I haven't learned about. I need to spend some time on reading its documentation and it could take a while.
+- (Attending a meeting) The time for that meeting is still to be determined due to epidemic. @whh should I just go back or wait a bit longer?
+- 
+#### Where to broadcast
+
+You should be aware of the broadcast whenever and wherever you are. Comments received after creating a task or communication with relevant people could all involve broadcasting.
+
+The best place to broadcast is the sub tasks of a main task or its comment section, where context and timestamps that could be used to show the progress are also available.
