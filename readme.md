@@ -72,7 +72,7 @@ Superior leaders as well as other peers of the same level.
 
 #### What to broadcast
 
-Everything that could potentially affect other team members should be broadcasted, during which no question is necessary. If someone asks a question regarding it, then your broadcast were not done correctly.一切对其他成员有潜在影响的都应该广播，无需队友问，人家开始问就说明广播工作已经有失误了。
+Everything that could potentially affect other team members should be broadcasted, and no question is necessary. If someone asks a question regarding your work, then the broadcast was not done correctly.
 
 Typical broadcast examples:
 
