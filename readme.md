@@ -78,7 +78,7 @@ Typical broadcast examples:
 
 - Is everything going well?
   - Yes, everything is proceeding as planned.
-  - No, then what problems did you encounter? What type of assistance is needed? Which conditions are you waiting for it to be fulfilled?
+  - If not, then what problems did you encounter? What type of assistance is needed? Which conditions are you waiting for it to be fulfilled?
 
 Examples:
 
