@@ -91,3 +91,11 @@ Examples:
 You should be aware of the broadcast whenever and wherever you are. Comments received after creating a task or communication with relevant people could all involve broadcasting.
 
 The best place to broadcast is the sub tasks of a main task or its comment section, where context and timestamps that could be used to show the progress are also available.
+
+## Task dependency
+
+**Dependent tasks should be broadcasted regularly regarding its progress.**
+
+Sometimes, a project task A cannot begin until the completion of another task B (e.g. cooking is dependent on grocery shopping). In this case, task A is considered as **dependent task**. Therefore, team member who is responsible for the task A should broadcast its progress regularly and honestly. You shouldn't claim to make any if there is no progress in reality.
+
+Maximum broadcast interval: 1 day
