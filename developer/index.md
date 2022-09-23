@@ -1,3 +1,5 @@
+[中文](./index.zh.md)
+
 # Role2 Developer Collaboration Standards
 
 ```text
