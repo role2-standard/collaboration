@@ -96,6 +96,6 @@ The best place to broadcast is the sub tasks of a main task or its comment secti
 
 **Dependent tasks should be broadcasted regularly regarding its progress.**
 
-Sometimes, a project task A cannot begin until the completion of another task B (e.g. cooking is dependent on grocery shopping). In this case, task A is considered as **dependent task**. Therefore, team member who is responsible for the task A should broadcast its progress regularly and honestly. You shouldn't claim to make any if there is no progress in reality.
+Sometimes, a project task A cannot begin until the completion of another task B (e.g. cooking is dependent on grocery shopping). In this case, task A is considered as a **dependent task**. Therefore, team member who is responsible for the task A should broadcast its progress regularly and honestly. You shouldn't claim to make any if there is no progress in reality.
 
 Maximum broadcast interval: 1 day
