@@ -49,4 +49,4 @@ Prefixes are not required for branches based on `master`. In other words, use `d
 
 ## Formatting
 
-Use an unified coding style for the entire team, meaning that characters are exactly aligned. It is not feasible to maintain such style completely by hand, so you can use formatting tools like [prettier](https://github.com/prettier/prettier), which you can read more at [awesome-code-formatters](https://github.com/rishirdua/awesome-code-formatters)
+An unified coding style is used by the entire team, meaning that characters are exactly aligned. It is not feasible to maintain such style completely by hand, so you can use formatting tools like [prettier](https://github.com/prettier/prettier), which you can read more at [awesome-code-formatters](https://github.com/rishirdua/awesome-code-formatters)
