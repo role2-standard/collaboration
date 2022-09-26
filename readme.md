@@ -85,7 +85,8 @@ Examples:
 - (A follow-up task) Just discussed with clients and they have some concerns related to data security.
 - (An implementation task) A 3rd party library is needed, which I haven't learned about. I need to spend some time on reading its documentation and it could take a while.
 - (Attending a meeting) The time for that meeting is still to be determined due to epidemic. @whh should I just go back or wait a bit longer?
-- 
+-
+
 #### Where to broadcast
 
 You should be aware of the broadcast whenever and wherever you are. Comments received after creating a task or communication with relevant people could all involve broadcasting.

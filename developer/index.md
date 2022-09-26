@@ -1,7 +1,7 @@
 # Role2 Developer Collaboration Standards
 
 ```text
-scope: All collaboration scenarios related to programming 
+scope: All collaboration scenarios related to programming
 ```
 
 ## Collaboration
