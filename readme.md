@@ -43,7 +43,7 @@ The person (people) who will lead the progress of this goal.
 
 ##### Estimated completion time
 
-It could set people's expectation regarding the duration of a task, so that further plans can be made. For something that isn't possible to estimate the duration, you need to specify the reason. 
+It could set people's expectation regarding the duration of a task, so that further plans can be made. For something that isn't possible to estimate the duration, you need to specify the reason.
 
 #### Who can specify the goal (task)
 
