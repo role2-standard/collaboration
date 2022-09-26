@@ -24,6 +24,10 @@ A big goal is the current goal's parent goal. For instance, eat well and sleep w
 
 #### Format
 
+A valid goal includes three compulsory fields: **Name**, **Person in charge**, **Estimated completion time**.
+
+##### Title
+
 Every goal must be an imperative sentence, meaning that the goal shall **include verb(s)**:
 
 - **Submit** website filings (✔)
@@ -33,11 +37,23 @@ Every goal must be an imperative sentence, meaning that the goal shall **include
 - Entry of admin page (×)
 - Customers' concerns (×)
 
+##### Person in charge
+
+The person (people) who will lead the progress of this goal.
+
+##### Estimated completion time
+
+It could set people's expectation regarding the duration of a task, so that further plans can be made. For something that isn't possible to estimate the duration, you need to specify the reason. 
+
 #### Who can specify the goal (task)
 
 Everyone. As long as the goal can be proved to be necessary.
 
 Necessary goals: sub-goals that are essential to larger goals.
+
+#### When should a goal (task) be created
+
+Anything that can't be done in 10 minutes needs to be specified as a goal
 
 ## Requirements
 
