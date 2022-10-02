@@ -16,10 +16,5 @@
   "main": "index.js",
   "scripts": {
     "format": "npx sort-package-json && npx prettier --write ."
-  },
-  "devDependencies": {
-    "@types/lodash": "^4.14.184",
-    "libphonenumber-js": "^1.10.13",
-    "utility-types": "^3.10.0"
   }
 }
