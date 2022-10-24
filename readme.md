@@ -10,11 +10,11 @@ scope: All collaboration scenarios
 
 ## Principle
 
-**Goal-oriented. Everything is oriented towards achieving the goal.**
+**Goal is the king, everything serves the king.**
 
 ### Goal-oriented
 
-What is a goal? Goal is defined as **bringing something to a certain state**, which requires effort in most cases.
+What is a goal? Goal is defined as **maintaining something to a certain state**, which requires effort in most cases.
 
 #### Principle
 
