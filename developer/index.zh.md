@@ -41,13 +41,25 @@ scope: 所有编程协作场景
 
 ### 格式
 
+- 使用 `snake_case`
+
+#### 使用 `snake_case`
+
 **在任何情况下**，能使用 `snake_case` 就使用 `snake_case`，**拒绝 `camalCase`**，这些情况包括但不限于：目录名，文件名，变量名，函数名，键名，仓库名，分支名，URL 路径及参数...
 
 **特殊情况**
 
 - 类名：正常使用 `Snake_case`，只不过第一个字母大写，举例：`Apple`, `This_is_a_class`
 
-## 格式
+#### 命名原则保持一致
+
+一个名称的构成要稳定，可预期，切忌 `login_form`，一会儿 `form_to_login`。
+
+#### 尽量由大概念到小概念
+
+比如说用户页面文件名应该是：`page_user_profile.ts`，而不是 `user_profile_page.ts`。虽然后者更符合英文语法习惯，但那是坏习惯。
+
+## 代码格式
 
 整个团队要使用同一种代码格式，同一种格式意味着字符比对完全一致。人力维护不现实，可以借助格式工具，类似于 [prettier](https://github.com/prettier/prettier)
 ，参考：[awesome-code-formatters](https://github.com/rishirdua/awesome-code-formatters)
