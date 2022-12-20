@@ -49,13 +49,13 @@ scope: 所有编程协作场景
 
 - 类名：正常使用 `Snake_case`，只不过第一个字母大写，举例：`Apple`, `This_is_a_class`
 
-#### 命名原则保持一致
+#### 命名原则要保持一致
 
-一个名称的构成要稳定，可预期，切忌 `login_form`，一会儿 `form_to_login`。
+名称的构成要稳定，可预期，切忌 `login_form`，一会儿 `form_to_login`。
 
-#### 尽量由大概念到小概念
+#### 概念上尽量由大到小
 
-比如说用户页面文件名应该是：`page_user_profile.ts`，而不是 `user_profile_page.ts`。虽然后者更符合英文语法习惯，但那是坏习惯。
+尽量由大概念到小概念，比如说用户页面文件名应该是：`page_user_profile.ts`，而不是 `user_profile_page.ts`。虽然后者更符合英文语法习惯，但那是坏习惯。
 
 ## 代码格式
 
