@@ -14,13 +14,21 @@ scope: All collaboration scenarios
 
 ### Goal-oriented
 
-What is a goal? Goal is defined as **maintaining something to a certain state**, which requires effort in most cases.
+What is a goal? Goal is defined as **maintaining something to an ideal state**, which requires effort in most cases.
 
 #### Principle
 
 **Small goals follow big goals**
 
 A big goal is the current goal's parent goal. For instance, eat well and sleep well are sub-goals of survive; shop grocery and boil the water could be sub-goals of cooking. If a goal contradicts to its sub-goals, then those sub-goals are considered as invalid and should be discarded.
+
+#### Make it written
+
+The implicit sub-goal of every goal is to make it known, which is equivalent to creating a task in a project management software, for example. Write down every task properly is beneficial because:
+
+- Teammates could have a clearer expectation ("Since he'll finish the poster design tomorrow, I can get the page structure done first so that it can be ready by then")
+- Outcome can be quantified and assessed more easily
+- Tasks are easier to refer to
 
 #### Format
 
@@ -39,7 +47,7 @@ Every goal must be an imperative sentence, meaning that the goal shall **include
 
 ##### Person in charge
 
-The person (people) who will lead the progress of this goal.
+The person (people) who will lead the progress of this goal. Aside from this individual, all relevant people could be assigned as well so that when the state of the goal changes (e.g. estimated time, state of completion), the rest will be informed.
 
 ##### Estimated completion time
 
@@ -53,7 +61,7 @@ Necessary goals: sub-goals that are essential to larger goals.
 
 #### When should a goal (task) be created
 
-Anything that can't be done in 10 minutes needs to be specified as a goal
+Anything that can't be done in 10 minutes needs to be specified as a goal. This includes things like planning and contemplating, which are usually "invisible". 
 
 ## Requirements
 
@@ -72,7 +80,7 @@ A task being feasable for a single person means the individual who was assigned 
 
 ### Broadcast in time
 
-Broadcasting your progress is very important. Everyone sticking to their own tasks seems to be fine, but that could also make everyone become a blackbox. Broadcast incorrectly or no broadcasting at all could significantly increase the effort required for collaboration as well as the uncertainty of the project. On the other hand, accurate and timely broadcast enables everyone to take actions in the same context, which contributes to the overall efficiency.
+Broadcasting your progress is very important. Everyone sticking to their own tasks seems to be fine, but that could also make everyone become a blackbox. Incorrect broadcast or no broadcast at all could significantly increase the effort required for collaboration as well as the uncertainty of the project. On the other hand, accurate and timely broadcast enables everyone to take actions under the same context, which contributes to the overall efficiency.
 
 Let your teammates be aware of your status. For example:
 
