@@ -61,7 +61,7 @@ Necessary goals: sub-goals that are essential to larger goals.
 
 #### When should a goal (task) be created
 
-Anything that can't be done in 10 minutes needs to be specified as a goal. This includes things like planning and contemplating, which are usually "invisible". 
+Anything that can't be done in 10 minutes needs to be specified as a goal. This includes things like planning and contemplating, which are usually "invisible".
 
 ## Requirements
 
